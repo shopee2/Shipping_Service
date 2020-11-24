@@ -4,7 +4,7 @@ Shipping Parcel Service link to shipping company
 ## WEB: <a href="https://servicenaja.herokuapp.com/">  ShippingService</a>
 ## BRANCHES: BACKEND - FRONTEND
 <p align="center">
-  <img src="diagram.jpg" width="500" title="hover text">
+  <img src="diagram.png" width="500" title="hover text">
 </p>
 
 #  Member
