@@ -5,7 +5,8 @@
 
 <h1>Preview</h1>
 <br>
-<img src="./eureka.png" width="800px" style="max-width:100%;">
+<img src="front1.png" width="800px" style="max-width:100%;">
+<img src="front2.png" width="800px" style="max-width:100%;">
 
 #  Member
 - 61070060     นายเด่นภูมิ ศรีเมือง   &nbsp;&nbsp;&nbsp;&nbsp;    <strong>GITHUB</strong> &nbsp;&nbsp; [Denpoom](https://github.com/Denpoom)
