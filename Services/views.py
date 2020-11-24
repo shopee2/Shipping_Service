@@ -16,7 +16,7 @@ class OrderItemAPIView(APIView):
     def get(self, request, orderItemId):
         order = OrderItem.objects.filter(orderid=orderItemId)
         if order:
-            serializer = OrderItemSerializer(order)
+            serializer = OrderItemSerializer(order, many=True)
             return Response(serializer.data, status=status.HTTP_200_OK)
         else:
             return Response(status=status.HTTP_400_BAD_REQUEST)
