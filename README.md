@@ -1,22 +1,7 @@
-# Service-Discovery
-06016325 SERVICE-ORIENTED PROGRAMMING 2020 - ITKMITL<br>
-Group INDOCHAINA
-<h1>Service</h1>
-  -  Eureka<br>
-  -  Student Services<br>
-  -  Teacher<br>
-  -  Third Services<br>
-  -  fourth Services<br>
-  -  Fifth Servies<br>
+# RUNSERVER
 
-
-
-<h1>Runserver</h1>
-
-* <b>Clone</b> repository Service-Discovery
-* <b>Run</b> service-registration-and-discovery-service 
-* <b>Run</b> service-discovery-client1 - service-discovery-client5
-* <b>View</b> index.html
+* <b>NPM INSTALL</b> 
+* <b>NPM START</b> 
 
 <h1>Preview</h1>
 <br>
