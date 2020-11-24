@@ -15,7 +15,7 @@ class Home extends Component {
 
   componentDidMount() {
     axios
-      .get(`http://shipping-sop.herokuapp.com/shipping/orderItem/description/${this.props.location.idShipping.id}/`)
+      .get(`https://shipping-sop.herokuapp.com/shipping/orderItem/description/${this.props.location.idShipping.id}/`)
       .then((res) => {
         const shippingdata = res.data;
         console.log(shippingdata)
